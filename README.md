@@ -39,6 +39,13 @@ I build data-driven systems, games, and hardware-software integrated projects.
 
 ## ⭐ Featured Projects
 
+### 🔬 Astro-Informatics / Backend Systems
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Astro-informatics-cipher-project&repo=Astro_DB)](https://github.com/Astro-informatics-cipher-project/Astro_DB)
+
+➡️ Backend system for large-scale astronomical datasets, including API development, database design, and high-volume data handling.
+
+---
+
 ### 🔬 Data Processing & Scientific Pipelines
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Astro-informatics-cipher-project&repo=image-subtraction)](https://github.com/Astro-informatics-cipher-project/image-subtraction)
 
